@@ -9,7 +9,7 @@
   "author": "Lumination",
   "license": "ISC",
   "dependencies": {
-    "compression": "^1.7.4",
+    "compression": "^1.7.5",
     "express": "^4.19.2",
     "express-rate-limit": "^6.11.2"
   }
